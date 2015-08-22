@@ -8,3 +8,4 @@ Proyecto Bienestar Grupo 6
 Integrantes:
  *
  * Daniel Reinaldo Zorro Forero        2879178
+ * Javier Alexander Rincón Pérez      258132
